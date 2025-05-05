@@ -1,7 +1,11 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+Olá,sou Gabriel Lima 
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+
+ <div>
+  <a href="https://github.com/moreiragabriel234">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=moreiragabriel234&show_icons=true&theme=dark&include_all_commits=true&
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiragabriel234&layout=compact&langs_count=16&theme=dark"/>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +19,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
   ##
  
-<div> 
+
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
